@@ -1,7 +1,7 @@
 package main
 
 import "fmt"
-
+//hey
 type Employee interface{
 	GetSalary() int
 }
